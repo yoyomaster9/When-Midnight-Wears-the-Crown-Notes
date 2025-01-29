@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Urnok of the Shadow Current.md",
+                "file": "Session Logs/Session 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urnok of the Shadow Current"
+              "title": "Session 01"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Urnok of the Shadow Current.md"
+                "file": "Session Logs/Session 01.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Urnok of the Shadow Current"
+              "title": "Outline of Session 01"
             }
           },
           {
@@ -188,10 +188,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d67b0fd8fb7a2185",
+  "active": "4a865b04cac77a2b",
   "lastOpenFiles": [
+    "Important Items/Silas's Letter to Urnok.md",
+    "Templates/Session Log Template.md",
+    "Session Logs/Session 01.md",
+    "2025-01-28.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Templates",
     "Welcome.md",
+    "Characters/Silas Vane.md",
     "Characters/Urnok of the Shadow Current.md",
+    "Important Items",
     "Characters",
     "Session Logs"
   ]

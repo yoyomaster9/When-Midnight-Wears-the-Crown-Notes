@@ -1,3 +1,13 @@
+---
+aliases:
+  - Urnok
+  - Urnok Ironfist
+---
+
+# Urnok Ironfist, of the Shadow Current
+
+
+## Backstory
 "Two cuts of veal, yer strongest ale, and a new rag, Tomlin." Urnok grumbles to the barkeep. Tomlin, lifting a bloody rag off Urnok's eye "Yeah, Taag got you good. Busted your brow." The words "Knockout!! Taag'Desh wins!" still ringing in Urnok's ears. Tomlin stands up, "Veal should be quick, only a few folk stay out this late. Mostly just, drunkards and pit los-" "He got lucky." Urnok interjects. 
 
 Urnok stands up, recalling the shouting of the pits, the heated air, every blocked punch Urnok threw. The 7-foot burly orc caught him off-gaurd, landing a critical hook on Urnok's chin. The whole fight swirling like swimming in a sea storm, Urnok snaps back to reality, only to empty his stomach once again. "Bucket." Tomlin points. "Next time, he won't get lucky." Urnok grumbles and staggers back to his room, clutching at his wounds, his mind still muddled with every time he heard that word, "KNOCKOUT!!"
