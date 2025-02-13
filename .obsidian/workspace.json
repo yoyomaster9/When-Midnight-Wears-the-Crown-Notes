@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bc8bc3651569a7b",
+            "id": "c38d4c37a576a100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Logs/Session 03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "d67b0fd8fb7a2185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kestralmoor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kestralmoor"
+              "title": "Session 03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Kestralmoor.md",
+                "file": "Session Logs/Session 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kestralmoor"
+              "title": "Outgoing links from Session 03"
             }
           },
           {
@@ -188,24 +174,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acd7598d075b732",
+  "active": "c38d4c37a576a100",
   "lastOpenFiles": [
+    "Session Logs/Session 01.md",
+    "Session Logs/Session 03.md",
+    "Session Logs/Session 02.md",
+    "NPCs/Tomlin.md",
+    "NPCs/Silas Vane.md",
+    "NPCs/Seren Althair.md",
+    "Locations/Kestralmoor.md",
     "Locations/Saltreach.md",
     "Locations/Virethar.md",
-    "Locations/Kestralmoor.md",
-    "NPCs/Seren Althair.md",
-    "NPCs/Silas Vane.md",
     "Templates/NPC Template.md",
     "Templates/Session Log Template.md",
-    "NPCs/Tomlin.md",
     "PCs/Hyvrim.md",
     "PCs/Urnok of the Shadow Current.md",
-    "Session Logs/Session 01.md",
-    "Session Logs/Session 02.md",
     "Templates/Location Template.md",
     "Important Items/Silas's Letter to Urnok.md",
     "Locations/The Wayward Hearth.md",
-    "Untitled.md",
     "PCs",
     "Important Items/Seren Note.md",
     "Locations",

@@ -5,6 +5,7 @@ date: 2025-01-29
 - Started in [[Kestralmoor]]
 - Quest from [[Seren Althair]]: Head south and kill monster at center of fog
 - Spy who took 1 gold from us broke both legs while escaping
+	- Sent to [[Kestralmoor]] to steal money from nobles
 	- Got a water log
 - Fought goblins & skeletons south of [[Kestralmoor]]
 - 
