@@ -7,10 +7,11 @@ date: 2025-02-12
 ## Session Notes
 - gave the boot a whole pint of everclear
 	- spat out socks, amethysts
-- Burgerous Strongblade
+- [[Burgerous Strongblade]]
 	- Mining foreman
 - Disturbed Knight "knight" Knightington's grave
-	- hand of Lord David Falconheart
+	- hand of [[Lord David Falconheart]]
+	- Gave me a +1 spear
 - fought spiders & spiders
 ## Post Session
 - 

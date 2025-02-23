@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Session 03.md",
+                "file": "Session Logs/Session 04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 03"
+              "title": "Session 04"
             }
           }
         ]
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +176,9 @@
   },
   "active": "c38d4c37a576a100",
   "lastOpenFiles": [
-    "Session Logs/Session 01.md",
     "Session Logs/Session 03.md",
+    "Session Logs/Session 04.md",
+    "Session Logs/Session 01.md",
     "Session Logs/Session 02.md",
     "NPCs/Tomlin.md",
     "NPCs/Silas Vane.md",
